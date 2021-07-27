@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/my imagess"/>
+    <qresource prefix="/">
+        <file>images/hotel.jpeng</file>
+        <file>images/logo.png</file>
+        <file>images/login_bg.png</file>
+        <file>images/shutdown_icon.png</file>
+        <file>images/Employe.png</file>
+        <file>images/Settings-icon.png</file>
+        <file>images/fileprint.png</file>
+        <file>images/stop.png</file>
+        <file>images/close.png</file>
+        <file>images/clock.png</file>
+    </qresource>
+</RCC>
